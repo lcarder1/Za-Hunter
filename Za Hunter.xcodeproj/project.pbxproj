@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF0B0CFD22381A1900161CC2 /* LocationDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0B0CFC22381A1900161CC2 /* LocationDetailsViewController.swift */; };
 		BFF45FCC2236C06B002F1F96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF45FCB2236C06B002F1F96 /* AppDelegate.swift */; };
 		BFF45FCE2236C06B002F1F96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF45FCD2236C06B002F1F96 /* ViewController.swift */; };
 		BFF45FD12236C06B002F1F96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF45FCF2236C06B002F1F96 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BF0B0CFC22381A1900161CC2 /* LocationDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailsViewController.swift; sourceTree = "<group>"; };
 		BFF45FC82236C06B002F1F96 /* Za Hunter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Za Hunter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFF45FCB2236C06B002F1F96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFF45FCD2236C06B002F1F96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				BFF45FCB2236C06B002F1F96 /* AppDelegate.swift */,
 				BFF45FCD2236C06B002F1F96 /* ViewController.swift */,
+				BF0B0CFC22381A1900161CC2 /* LocationDetailsViewController.swift */,
 				BFF45FCF2236C06B002F1F96 /* Main.storyboard */,
 				BFF45FD22236C06C002F1F96 /* Assets.xcassets */,
 				BFF45FD42236C06C002F1F96 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF0B0CFD22381A1900161CC2 /* LocationDetailsViewController.swift in Sources */,
 				BFF45FCE2236C06B002F1F96 /* ViewController.swift in Sources */,
 				BFF45FCC2236C06B002F1F96 /* AppDelegate.swift in Sources */,
 			);
